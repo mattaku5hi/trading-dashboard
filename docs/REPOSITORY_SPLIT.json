@@ -1,0 +1,13 @@
+{
+  "format": "repository-split-frozen-input-v1",
+  "project": "trading-dashboard",
+  "observed_at": "2026-10-15T13:13:44.698432+00:00",
+  "source_head": "1bdb88bf720259aa13d9e6124cfd549efba0574d",
+  "source_includes_nonignored_working_edits": true,
+  "bytes": 8466,
+  "source_inventory_sha256": "60de50e0560160e8822295490ed552e8bd4b146c5441c08c0628793913ba2f84",
+  "history_split_commit": "27ffdda4645b661811f7cc989e742e68c72eabaf",
+  "original_source_left_unchanged": true,
+  "added_build_profiles": "debug0/incrementalfalse",
+  "behavioral_controls_run": false
+}

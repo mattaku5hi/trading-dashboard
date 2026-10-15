@@ -6,3 +6,11 @@ license = "UNLICENSED"
 description = "Read-only HTML status view for separately hosted trading systems"
 
 [dependencies]
+
+[profile.dev]
+debug = 0
+incremental = false
+
+[profile.test]
+debug = 0
+incremental = false
